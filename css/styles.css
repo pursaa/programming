@@ -47,13 +47,14 @@ img {
   background-color: darkblue;
   text-align: center;
   font-family: fantasy;
+  border: 10px double lightgreen;
  }
 
 
 .quiz {
   background-color: pink;
   padding: 50px;
-  border: 4px double purple;
+  border: 10px double purple;
   margin-bottom: 30px;
 }
 
