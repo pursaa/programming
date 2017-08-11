@@ -4,8 +4,8 @@ $(document).ready(function(){
     var answer1 = $("#question1").val();
     var answer2 = $("#question2").val();
     var answer3 = $("#question3").val();
-    var answer4 = $("#question4").val();
-    var answer5 = $("#question5").val();
+    var answer4 = $("input:radio[name=question4]:checked").val();
+    var answer5 = $("input:radio[name=question5]:checked").val();
 
     if(answer1 === "You obsese over layouts, navigation, colors, and design" && answer3 === "Websites and webapps" && answer4 === "Yes" && answer5 === "Yes" ){
       $("#result1").show();
