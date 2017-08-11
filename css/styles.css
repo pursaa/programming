@@ -1,14 +1,68 @@
-.well {
-  color: purple;
+body {
   background-color: lightblue;
 }
-.jumbotron {
-  color: pink;
-  background-color: darkblue;
+
+h2 {
+  font-size: 20px;
+  color: darkgreen;
+  font-style: italic;
+  font-weight: bold;
 }
+
+h3 {
+  font-size: 40px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 20px;
+  font-style: italic;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  text-align: left;
+}
+
 img {
   width: 30%;
+  border: 8px double pink;
 }
+
+.form-control {
+  color: blue;
+  font-size: 20px
+}
+
 .well {
   display: none;
+  color: lightpink;
+  background-color: green;
+  border: 16px double lightgreen;
+  text-align: center;
+}
+
+.jumbotron {
+  color: lightgreen;
+  background-color: darkblue;
+  text-align: center;
+  font-family: fantasy;
+ }
+
+
+.quiz {
+  background-color: pink;
+  padding: 50px;
+  border: 4px double purple;
+  margin-bottom: 30px;
+}
+
+.box {
+  font size: 50px;
+  background-color: pink;
+  padding-top: 5px;
+}
+
+.radio {
+  color: purple;
 }
