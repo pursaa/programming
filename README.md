@@ -1,19 +1,20 @@
-# _Debbie Michel's Portfolio_
+# _Do you like to Program?_
 
-#### _This is Debbie Michel's portfolio, August 4, 2017_
+#### _This is a webpage to find out what programming language you might like to learn, August 11, 2017_
 
 #### By _**Debbie Michel**_
 
 ## Description
 
-_This website is a portfolio of Debbie Michel, explaining who she is, what her background is, what her hobbies and interest are and links to some of her work._
+_This website is for people to find out what programming language they would like to learn.  It asks a series of 5 questions and then shows the results from the answers given_
 
 ## Setup/Installation Requirements
 
-_go to       and and clone portfolio repository_
-_Open html file in web browser to see html page_
+_Create a new branch_
+_Go to https://github.com/pursaa/programming and and clone programming repository_
+_Open html file in web browser to see the html page_
 _Open html, js and css files with a code editor and begin editing_
-_Or you can go to https://pursaa.github.io/portfolio/ to review page_
+_Or open the html page in a web browser and see how it works_
 
 
 ## Known Bugs
@@ -26,7 +27,7 @@ _If you have questions or comments about this page please send them to Debbie Mi
 
 ## Technologies Used
 
-_This website was created using HTML, CSS and Bootstrap_
+_This website was created using html, css, bootstrap, JS and jQuery-3.2.1_
 
 ### License
 
