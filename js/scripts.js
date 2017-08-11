@@ -11,11 +11,8 @@ $(document).ready(function(){
       $("#result1").show();
     }else if(answer1 === "You obsese over layouts, navigation, colors, and design" && answer3 === "Mobile Apps" ){
         $("#result2").show();
-      }else if(answer1 === "Do you like to create logical computations" && answer3 === "Software programming" ){
+    }else if(answer1 === "Do you like to create logical computations" && answer3 === "Software programming" ){
           $("#result3").show();
-
-debugger
-
     } else{
       $("#result4").show();
       }
