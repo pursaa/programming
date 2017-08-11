@@ -1,21 +1,20 @@
 # _Do you like to Program?_
 
-#### _This is a webpage to find out what programming language you might like to learn, August 11, 2017_
+#### _This is a webpage to find out what Epicodus Track is right for you, August 11, 2017_
 
 #### By _**Debbie Michel**_
 
 ## Description
 
-_This website is for people to find out what programming language they would like to learn.  It asks a series of 5 questions and then shows the results from the answers given_
+_This is a webpage to find out what Epicodus Track is right for them.  It asks a series of 5 questions and then shows the results from the answers given_
 
 ## Setup/Installation Requirements
 
 _Create a new branch_
 _Go to https://github.com/pursaa/programming and and clone programming repository_
 _Open html file in web browser to see the html page_
-_Open html, js and css files with a code editor and begin editing_
+_Open html, JS and css files with a code editor and begin editing_
 _Or open the html page in a web browser and see how it works_
-
 
 ## Known Bugs
 
