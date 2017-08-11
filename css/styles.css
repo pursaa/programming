@@ -9,3 +9,6 @@
 img {
   width: 30%;
 }
+.well {
+  display: none;
+}
